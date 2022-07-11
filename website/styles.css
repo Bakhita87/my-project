@@ -225,6 +225,7 @@ h3 {
     padding-top: 100px;
     width: 80%;
     text-align: center;
+    
 }
 
 .reviews-col {
@@ -235,7 +236,7 @@ h3 {
     padding: 25px;
     cursor: pointer;
     display: flex;
-    background: aquamarine;
+    background: #fff;
 
 }
 
@@ -275,7 +276,7 @@ h3 {
     border-radius: 10px;
     text-align: center;
     padding: 100px 0;
-    background-image: url(images/luca-bravo-O453M2Liufs-unsplash.jpg);
+    background-image: url(images/pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg);
 }
 
 .cta h4 {
@@ -342,11 +343,23 @@ h3 {
     padding: 15px 0 25px;
 }
 
+.packages{
+    float: right;
+}
 
 .packages-col img {
     width: 80%;
     border-radius: 10px;
     height: auto;
+    
+}
+
+
+.destination-col img{
+    width: 90%;
+    border-radius: 10px;
+    height: 700px;
+   
 }
 
 .location {
